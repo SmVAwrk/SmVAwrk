@@ -1,6 +1,4 @@
 - 👋 Hi, I’m Vitaly Smirnov
-- 👀 I’m interested in Python web development
-- 🌱 I’m currently learning Python, JavaScript, HTML/CSS
 - 📫 How to reach me: smvawrk@gmail.com
 
 <!---
